@@ -9,7 +9,7 @@ This repository contains code notebooks, outputs, and practice projects for the 
 | # | Topic | Notebook | Status |
 |---|---|---|---|
 | 01 | Introduction to PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](01_introduction_to_pytorch.ipynb) | ✅ Completed |
-| 02 | Tensors in PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](02_tensors_in_pytorch.ipynb) | ⏳ In Progress |
+| 02 | Pytorch_Tensors/Tensors in PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](02_tensors_in_pytorch.ipynb) | ⏳ In Progress |
 | 03 | PyTorch Autograd | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](03_pytorch_autograd.ipynb) | 📅 Planned |
 | 04 | PyTorch Training Pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](04_pytorch_training_pipeline.ipynb) | 📅 Planned |
 | 05 | PyTorch NN Module | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](05_pytorch_nn_module.ipynb) | 📅 Planned |
